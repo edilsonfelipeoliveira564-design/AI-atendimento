@@ -1,0 +1,8 @@
+{
+  "name": "ImobiAI - Real Estate AI Platform",
+  "description": "AI-powered real estate platform for WhatsApp pre-attendance, lead qualification, and advanced analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
